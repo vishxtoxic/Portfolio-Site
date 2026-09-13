@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Programming tools illustration">
+  <rect width="640" height="400" fill="#f1f8fc"/>
+  <rect x="105" y="75" width="430" height="250" rx="20" fill="#ffffff" stroke="#d3e5ee" stroke-width="3"/>
+  <path d="M185 155l-45 45 45 45" fill="none" stroke="#6791a7" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 145l-60 110" fill="none" stroke="#8fb4c9" stroke-width="12" stroke-linecap="round"/>
+  <path d="M365 155l45 45-45 45" fill="none" stroke="#6791a7" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="150" y="345" width="340" height="14" rx="7" fill="#d3e5ee"/>
+</svg>
