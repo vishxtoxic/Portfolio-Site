@@ -469,6 +469,13 @@ a:hover {
     margin-top: 1rem;
 }
 
+.card-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1.25rem;
+}
+
 .tag {
     background: var(--surface-soft);
     border: 1px solid var(--border);
